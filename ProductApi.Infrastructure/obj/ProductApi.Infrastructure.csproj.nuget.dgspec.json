@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Infrastructure/ProductApi.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj",
+        "projectName": "ECommerce.SharedLibrary",
+        "projectPath": "/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj",
+        "packagesPath": "/home/shimaa/.nuget/packages/",
+        "outputPath": "/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shimaa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/ProductApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/ProductApi.Application.csproj",
+        "projectName": "ProductApi.Application",
+        "projectPath": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/ProductApi.Application.csproj",
+        "packagesPath": "/home/shimaa/.nuget/packages/",
+        "outputPath": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shimaa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj": {
+                "projectPath": "/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj"
+              },
+              "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/ProductApi.Domain.csproj": {
+                "projectPath": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/ProductApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/ProductApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/ProductApi.Domain.csproj",
+        "projectName": "ProductApi.Domain",
+        "projectPath": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/ProductApi.Domain.csproj",
+        "packagesPath": "/home/shimaa/.nuget/packages/",
+        "outputPath": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shimaa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Infrastructure/ProductApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Infrastructure/ProductApi.Infrastructure.csproj",
+        "projectName": "ProductApi.Infrastructure",
+        "projectPath": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Infrastructure/ProductApi.Infrastructure.csproj",
+        "packagesPath": "/home/shimaa/.nuget/packages/",
+        "outputPath": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shimaa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/ProductApi.Application.csproj": {
+                "projectPath": "/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/ProductApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/bin/Debug/net9.0/ProductApi.Domain.deps.json
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/bin/Debug/net9.0/ProductApi.Domain.dll
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/bin/Debug/net9.0/ProductApi.Domain.pdb
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/obj/Debug/net9.0/ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/obj/Debug/net9.0/ProductApi.Domain.AssemblyInfoInputs.cache
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/obj/Debug/net9.0/ProductApi.Domain.AssemblyInfo.cs
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/obj/Debug/net9.0/ProductApi.Domain.csproj.CoreCompileInputs.cache
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/obj/Debug/net9.0/ProductApi.Domain.dll
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/obj/Debug/net9.0/refint/ProductApi.Domain.dll
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/obj/Debug/net9.0/ProductApi.Domain.pdb
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Domain/obj/Debug/net9.0/ref/ProductApi.Domain.dll

@@ -1,0 +1,12 @@
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/bin/Debug/net9.0/ECommerce.SharedLibrary.deps.json
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/bin/Debug/net9.0/ECommerce.SharedLibrary.dll
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/bin/Debug/net9.0/ECommerce.SharedLibrary.pdb
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/Debug/net9.0/ECommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/Debug/net9.0/ECommerce.SharedLibrary.AssemblyInfoInputs.cache
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/Debug/net9.0/ECommerce.SharedLibrary.AssemblyInfo.cs
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/Debug/net9.0/ECommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/Debug/net9.0/ECommerce.SharedLibrary.dll
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/Debug/net9.0/refint/ECommerce.SharedLibrary.dll
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/Debug/net9.0/ECommerce.SharedLibrary.pdb
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/Debug/net9.0/ref/ECommerce.SharedLibrary.dll
+/home/shimaa/Projects/dotnet/ECommerce/ECommerce.SharedLibrary/obj/Debug/net9.0/ECommerce.SharedLibrary.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/bin/Debug/net9.0/ProductApi.Application.deps.json
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/bin/Debug/net9.0/ProductApi.Application.dll
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/bin/Debug/net9.0/ProductApi.Application.pdb
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/ProductApi.Application.AssemblyInfoInputs.cache
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/ProductApi.Application.AssemblyInfo.cs
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/ProductApi.Application.csproj.CoreCompileInputs.cache
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/ProductApi.Application.dll
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/refint/ProductApi.Application.dll
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/ProductApi.Application.pdb
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/ref/ProductApi.Application.dll
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/bin/Debug/net9.0/ECommerce.SharedLibrary.dll
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/bin/Debug/net9.0/ProductApi.Domain.dll
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/bin/Debug/net9.0/ECommerce.SharedLibrary.pdb
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/bin/Debug/net9.0/ProductApi.Domain.pdb
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/ProductApi.Application.csproj.AssemblyReference.cache
+/home/shimaa/Projects/dotnet/ECommerce/ProductApi.Application/obj/Debug/net9.0/ProductA.E443A747.Up2Date
